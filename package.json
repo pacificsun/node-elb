@@ -1,0 +1,14 @@
+{
+  "name": "node-elb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pacificsun/node-elb.git",
+  "author": "pacificsuraj <stsurajst@gmail.com>",
+  "scripts": {
+    "start": "node index"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
